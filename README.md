@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=for-the-badge)
+
 ## 👋 Hi there
 - 💻 I'm a computer engineering student at De La Salle University 🏹💚.
 - 🔭 I love space, astronomy, and computational astrophysics.
