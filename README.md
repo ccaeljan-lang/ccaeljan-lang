@@ -2,7 +2,7 @@
 - 💻 I'm a computer engineering student at De La Salle University 🏹💚.
 - 🔭 I love space, astronomy, and computational astrophysics.
 - 🤖 I also do software developing, electronics, and robots (e.g. cubesats ).
-- ✉️ How to reach me: animo.li/caeljan-cristobal-astro
+- ✉️ How to reach me: https://caeljan-cristobal.vercel.app/
 
 ## 🧑🏻‍💻 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
