@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=for-the-badge)
+Profile Views ![](https://komarev.com/ghpvc/?username=caeljan-cristobal&label=&style=flat)
 
 ## 👋 Hi there
 - 💻 I'm a computer engineering student at De La Salle University 🏹💚.
