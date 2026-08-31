@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 💻 I'm a computer engineering student at De La Salle University 🏹💚.
+- 🔭 I love space, astronomy, and computational astrophysics.
+- 🤖 I also do software developing, electronics, and robots (e.g. cubesats).
+- ✉️ Reach me: https://caeljan-cristobal.vercel.app/
 
 <!--
 **ccaeljan-lang/ccaeljan-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
