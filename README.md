@@ -1,10 +1,10 @@
-## Hi there 👋
+## 👋 Hi there
 - 💻 I'm a computer engineering student at De La Salle University 🏹💚.
 - 🔭 I love space, astronomy, and computational astrophysics.
-- 🤖 I also do software developing, electronics, and robots (e.g. cubesats).
+- 🤖 I also do software developing, electronics, and robots (e.g. cubesats ).
 - ✉️ Reach me: https://caeljan-cristobal.vercel.app/
 
-## 💻 Skills
+## 🧑🏻‍💻 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
