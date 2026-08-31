@@ -4,6 +4,12 @@
 - 🤖 I also do software developing, electronics, and robots (e.g. cubesats).
 - ✉️ Reach me: https://caeljan-cristobal.vercel.app/
 
+## 💻 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 <!--
 **ccaeljan-lang/ccaeljan-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
